@@ -1,6 +1,6 @@
 <template>
   <article class="media box">
-    <div class="media-left score-box" v-if="show_score">
+    <div class="media-left score-box">
       <p>
         <span class="score">{{ score }}</span>
       </p>
